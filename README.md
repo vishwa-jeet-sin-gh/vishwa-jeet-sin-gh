@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @vishwajeet singh
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 **Welcome to My GitHub Universe!** 🌟  
 
-<!---
-vishwa-jeet-sin-gh/vishwa-jeet-sin-gh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey there! I'm **Vishwajeet Singh**, a passionate **Frontend Developer** crafting sleek, interactive web experiences. 💻✨  
+
+🔹 **75+ LeetCode Challenges Conquered** – Sharpening my DSA skills every day!  
+🔹 **Projects Built** – From clones to custom creations, bringing ideas to life with **HTML, CSS, JavaScript, and React**.  
+🔹 **Open to Opportunities** – Always ready to collaborate and innovate!  
+
+📌 **Check out my work below and let’s connect!** 🚀🔥
